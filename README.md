@@ -52,7 +52,7 @@ The project is primarily based on:
 
 ## Acknowledgements
 
-This project was completed as a self-study initiative to strengthen understanding of modern condensed matter physics and topological phases of matter. The primary source of study was the graduate lecture notes on the Quantum Hall Effect by **Prof. David Tong** (University of Cambridge).
+This project was completed as a self-study initiative to strengthen understanding of modern condensed matter physics and topological phases of matter.
 
 ---
 
